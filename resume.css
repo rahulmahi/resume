@@ -1,0 +1,107 @@
+.container{
+    width: 950px;
+    margin: 0 auto;
+}
+.demo{
+    display: flex;
+    margin: 0 auto;
+    
+     }
+.two{
+    border: 2px solid white;
+    background-color: darkblue;
+    color: white;
+    /* width: 600px; */
+    flex-basis: 30%;
+}
+.run{
+    flex-basis: 70%;
+    padding-left: 40px;
+}
+.run2{
+    padding-left: 50px;
+}
+.run3{
+    background-color: rgb(76, 116, 228);
+}
+.left{
+    margin-left: 10px;
+}
+.progress-status{
+    width: 80%;
+    background-color: white;
+}
+.myprogressBar{
+    width: 250px;
+    height: 20px;
+    background-color: yellow;
+    text-align: center;
+    line-height: 32px;
+    color: black;
+    padding-bottom: 6px;
+}
+.progress-status1{
+    width: 80%;
+    background-color: white;
+}
+.myprogressBar1{
+    width: 180px;
+    height: 20px;
+    background-color: yellow;
+    text-align: center;
+    line-height: 32px;
+    color: black;
+    padding-bottom: 6px;
+}
+.progress-status2{
+    width: 80%;
+    background-color: white;
+}
+.myprogressBar2{
+    width: 140px;
+    height: 20px;
+    background-color: yellow;
+    text-align: center;
+    line-height: 32px;
+    color: black;
+    padding-bottom: 6px;
+}
+.progress-status3{
+    width: 80%;
+    background-color: white;
+}
+.myprogressBar3{
+    width: 90px;
+    height: 20px;
+    background-color: yellow;
+    text-align: center;
+    line-height: 32px;
+    color: black;
+    padding-bottom: 6px;
+}
+.progress-status4{
+    width: 80%;
+    background-color: yellow;
+}
+.myprogressBar4{
+    width: 140px;
+    height: 20px;
+    background-color: yellow;
+    text-align: center;
+    line-height: 32px;
+    color: black;
+    padding-bottom: 6px;
+}
+ .progress-status5{
+    width: 80%;
+    background-color: white;
+} 
+ .myprogressBar5{
+    width: 90px;
+    height: 20px;
+    background-color: yellow;
+    text-align: center;
+    line-height: 32px;
+    color: black;
+    padding-bottom: 6px;
+} 
